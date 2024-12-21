@@ -1,3 +1,4 @@
+// Java program to print the initials of your name.input : John David Smith Output : J.D.S.
 import java.util.Scanner;
 
 public class NameInitials{
