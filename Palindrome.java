@@ -1,3 +1,4 @@
+// Java String program to check whether a string is a Palindrome.
 import java.util.Scanner;
 
 public class Palindrome {
