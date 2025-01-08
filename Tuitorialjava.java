@@ -14,3 +14,14 @@ public class Main {
       System.out.print("*\n**\n***\n****");
    }
 }
+
+//data types is two type -> 
+// 1. primitive data types.(int(4),float,double,byte(1 byte),char(2 byte),boolean(1 byte),long(8 byte) etc)
+// 2. Non primitive data types.(string,array,object,interface)
+
+int a = 5;
+        int b = 6;
+        int sum = a+b;
+        System.out.println(sum);
+
+
