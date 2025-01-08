@@ -9,5 +9,8 @@ public class Main {
       System.out.println("hello world ");           //here println is use for go to the next line.
       System.out.print("i am going to start java/n");  //here go to next line for /n 
       System.out.print("i am Labani Haldar");
+
+// Pattern 
+      System.out.print("*\n**\n***\n****");
    }
 }
